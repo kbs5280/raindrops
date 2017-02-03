@@ -1,3 +1,5 @@
+NOTE: _This is a simple exercise I used to practice Ruby fundamentals._
+
 # Raindrops
 
 Write a program that converts a number to a string, the contents of which depend on the number's factors.
